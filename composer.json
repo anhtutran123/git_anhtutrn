@@ -1,0 +1,14 @@
+{
+    "name": "ptg/git_anhtutrn",
+    "authors": [
+        {
+            "name": "anhtutran123",
+            "email": "43411307+anhtutran123@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "4.3.1",
+        "components/jquery": "^3.3"
+
+    }
+}
